@@ -40,7 +40,6 @@ export default new Vuex.Store({
       state.todos.push({ ...todo });
     },
     setTodoCompletionState(state, todoIndex) {
-      state.todos;
       state.todos[todoIndex].done = !state.todos[todoIndex].done;
     },
     removeTodo(state, todoIndex) {

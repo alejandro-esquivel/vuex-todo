@@ -108,6 +108,10 @@ export default {
 }
 
 .btn.remove:hover {
+  color: hsl(0, 40%, 50%);
+}
+
+.btn.remove:active {
   color: hsl(0, 70%, 50%);
 }
 </style>

@@ -31,7 +31,7 @@ export default {
   list-style: none;
   width: var(--containers-width);
   margin: 0 auto;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 @keyframes slide-in {
