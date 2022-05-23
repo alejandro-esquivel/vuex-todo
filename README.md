@@ -1,5 +1,7 @@
 # vuex-todo
 
+This is a Task List app I made with Vue and VueX. I just made it to show what I currently know and what I'm learning about Vue and Vuex.
+
 ## Project setup
 ```
 npm install
